@@ -7,10 +7,8 @@ This repository contains practice reports created using advanced custom visuals 
 - call-volume-trend-analysis
 - ecommerce-sales-analysis
 - employee-data-report
-- project-management-dashboard-report
 - retail-webinar-analysis-report
 - superstore-dataset-report
-- webinar-dashboard-report
 
 ## **🎯 Custom Visuals Used**
 
